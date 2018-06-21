@@ -1,4 +1,4 @@
-# obj_reactivity
+# Vue Object Reactivity
 
 > A Vue.js project
 
